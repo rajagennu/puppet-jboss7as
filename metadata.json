@@ -1,0 +1,18 @@
+{
+  "name": "Raja-jboss7as",
+  "version": "0.1.0",
+  "author": "Raja",
+  "summary": "A Module to install and configure Jbos 7 AS in target Puppet agent.",
+  "license": "Apache-2.0",
+  "source": "git@github.com:rajagennu/puppet-jboss7as.git",
+  "project_page": "git@github.com:rajagennu/puppet-jboss7as.git",
+  "issues_url": "https://github.com/rajagennu/puppet-jboss7as/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
